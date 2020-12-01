@@ -1,5 +1,5 @@
-const SPACE = '50h346vribst';
-const ACCESSTOKEN = 'LgowO6gdzH0FqRaKqH3JAsVHFOkKrSEgnDkA_-odxbg';
+const SPACE = '';
+const ACCESSTOKEN = '';
 
 // main.js
 const express = require('express')
